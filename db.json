@@ -12,6 +12,7 @@
     "name": "typicode"
   },
   "user": [
+    { "id": 0, "username": "admin", "password": "21232f297a57a5a743894a0e4a801fc3" },
     { "id": 1, "username": "Mike" },
     { "id": 2, "username": "John" },
     { "id": 3, "username": "Lily"}
