@@ -1,19 +1,8 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "comments": [
+   "user": [
+       { "username": "admin", "password": "21232f297a57a5a743894a0e4a801fc3" }
+   ]
+   "comments": [
         {
             "id": 1,
             "body": "some comment",
